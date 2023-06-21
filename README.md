@@ -58,23 +58,23 @@
 ## My GitHub Stats 💻
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbansal10&hide=html,css&theme=dark)](https://github.com/mayankbansal10/github-readme-stats)
-[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreejitverma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&theme=dracula)](https://github.com/mayankbansal10/github-readme-stats)
+[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankbansal10&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&theme=dracula)](https://github.com/mayankbansal10/github-readme-stats)
 
 ![GitHub Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=mayankbansal10&theme=highcontrast)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreejitverma)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mayankbansal10)
 <br />
 
-[twitter]: https://twitter.com/shreejitverma
+[twitter]: https://twitter.com/mayankbansal10
 [youtube]: https://www.youtube.com/channel/UCkxV3Br2EsN0lxWowBFOpKw
-[website]: https://www.shreejitverma.com/
-[instagram]: https://www.instagram.com/shreejitverma/
+[website]: https://www.mayankbansal10.com/
+[instagram]: https://www.instagram.com/mayankbansal17/
 [discord]: https://discord.gg/As463f7tv4
 [linkedin]: https://www.linkedin.com/in/mayankbansal10/
-[devto]: https://dev.to/shreejitverma
+[devto]: https://dev.to/mayankbansal10
 [gmail]: mailto:mayankbansaltech@gmail.com
 [facebook]: https://facebook.com/mayankbansal10
-[patreon]: https://www.patreon.com/shreejitverma
+[patreon]: https://www.patreon.com/mayankbansal10
 [paypal]: https://paypal.me/shreejitverma?country.x=IN&locale.x=en_GB
 
 ## Connect With Me:
