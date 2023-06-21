@@ -57,8 +57,8 @@
 
 ## My GitHub Stats 💻
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejitverma&hide=html,css&theme=dark)](https://github.com/mayankbansal10/github-readme-stats)
-[![Shreejit's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreejitverma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&theme=dracula)](https://github.com/mayankbansal10/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbansal10&hide=html,css&theme=dark)](https://github.com/mayankbansal10/github-readme-stats)
+[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreejitverma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&theme=dracula)](https://github.com/mayankbansal10/github-readme-stats)
 
 ![GitHub Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=mayankbansal10&theme=highcontrast)
 
