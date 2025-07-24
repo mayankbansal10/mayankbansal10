@@ -11,7 +11,7 @@
 
 ## About Me 🚀
 
-## I'm a recent Master of Information Systems Management grad from Carrnegie Mellon University. 
+## Software Engineer | Data @ PsiQuantum | MISM - Carnegie Mellon | GenAI, LLMs, and Cloud-Native ETL / ELT | Python • AWS • SQL • Quantum Computing R&D | LinkedIn Top Voice - Data Warehousing, Data Engineering 
 
 🎓 I'm a recent Master of Information Systems Management grad from Carrnegie Mellon University, Pittsburgh  </br>
 
